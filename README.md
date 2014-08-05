@@ -1,2 +1,1 @@
-cosc460
-=======
+#Public repository for COSC460
